@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SQL SSAS", "SQL SSAS\SQL SSAS.sqlproj", "{A75CC560-45D2-4EF6-9659-9896DA9B5B95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A75CC560-45D2-4EF6-9659-9896DA9B5B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A75CC560-45D2-4EF6-9659-9896DA9B5B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A75CC560-45D2-4EF6-9659-9896DA9B5B95}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A75CC560-45D2-4EF6-9659-9896DA9B5B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A75CC560-45D2-4EF6-9659-9896DA9B5B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A75CC560-45D2-4EF6-9659-9896DA9B5B95}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {757A288F-D2F9-4B66-9F28-7E9598AFE772}
+	EndGlobalSection
+EndGlobal

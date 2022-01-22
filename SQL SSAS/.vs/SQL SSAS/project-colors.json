@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a75cc560-45d2-4ef6-9659-9896da9b5b95": {
+      "ProjectGuid": "a75cc560-45d2-4ef6-9659-9896da9b5b95",
+      "DisplayName": "SQL SSAS",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
