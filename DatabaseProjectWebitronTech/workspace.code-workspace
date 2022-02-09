@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "DatabaseProjectWebitronTech",
+			"path": "."
+		},
+		{
+			"name": "ETL",
+			"path": "..\\SQL SSAS\\ETL"
+		}
+	]
+}
