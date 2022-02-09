@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "272d6b69-0644-477b-aab8-51c71e54e208": {
+      "ProjectGuid": "272d6b69-0644-477b-aab8-51c71e54e208",
+      "DisplayName": "AppOwnsData",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
