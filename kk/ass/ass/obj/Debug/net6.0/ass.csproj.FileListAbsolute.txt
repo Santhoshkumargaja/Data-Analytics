@@ -1,0 +1,5 @@
+C:\Users\gajas\OneDrive\Desktop\SQL SSAS\kk\ass\ass\obj\Debug\net6.0\ass.csproj.AssemblyReference.cache
+C:\Users\gajas\OneDrive\Desktop\SQL SSAS\kk\ass\ass\obj\Debug\net6.0\ass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gajas\OneDrive\Desktop\SQL SSAS\kk\ass\ass\obj\Debug\net6.0\ass.AssemblyInfoInputs.cache
+C:\Users\gajas\OneDrive\Desktop\SQL SSAS\kk\ass\ass\obj\Debug\net6.0\ass.AssemblyInfo.cs
+C:\Users\gajas\OneDrive\Desktop\SQL SSAS\kk\ass\ass\obj\Debug\net6.0\ass.csproj.CoreCompileInputs.cache
